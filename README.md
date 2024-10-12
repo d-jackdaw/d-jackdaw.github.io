@@ -1,8 +1,16 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: 在闰时
 permalink: /
+cover: https://d-jackdaw.github.io//assets/192px-Weather.numa.png
 ---
+
+## log
+
+- 24-10-12 兜兜转转回到gitbook，还是这个方便（悲）
+
+---
+
 
 Make Jelly site have a GitBook look!
 
